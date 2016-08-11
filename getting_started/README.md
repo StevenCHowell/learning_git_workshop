@@ -4,6 +4,9 @@ As mentioned in [Tower's Version Control Best Practices](https://www.git-tower.c
 
 Working in branching presents one complication in keeping track of which branch you currently have checked out.  Whenever you checkout a branch, the Git application on your computer changes the file tree to match that branch.  A consequence of this is people can easily forget which branch they are/were working in most recently and inadvertently make changes in the wrong branch.  
 
-The [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh) project provides a quick and simple solution to tracking which branch you are in my displaying this info in the command prompt (shown below).  This can be further adjusted but lets start by looking what this default setting provides.   
+The [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh) project provides a quick and simple solution to tracking which branch you are in my displaying this info in the command prompt (shown below).  This can be further adjusted but lets start by looking what this default setting provides.  In the image below, you will notice an arrow followed by the current directory colored teal, then Git specific information about which branch you are in and if there are uncommitted changes.  The Git specific information only appears when you navigate to a directory containing files under version control using Git.  Notice the brach is shown in red; it changes from `master` to `LH_2039` after executing the checkout command `git co -b LH_2039`.  Also notice the yellow `x` that appears after making a change to the file named `x`.
 
 ![alt text](https://cloud.githubusercontent.com/assets/2618447/6316876/710cbb8c-ba03-11e4-90b3-0315d72f270c.jpg "Oh My Zsh Default")
+
+In addition to displaying which Git branch you ar in, Oh My Zsh also provides many other great features.  One worth noting in this context is the significantly improved tab completion over Bash, which is Git aware.
+
