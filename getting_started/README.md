@@ -10,3 +10,4 @@ The [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh) project provides a qu
 
 In addition to displaying which Git branch you ar in, Oh My Zsh also provides many other great features.  One worth noting in this context is the significantly improved tab completion over Bash, which is Git aware.
 
+To get Oh My Zsh setup, first [install git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git), then [install `zsh` on your system](https://github.com/robbyrussell/oh-my-zsh/wiki/Installing-ZSH) (`brew install zsh`, `sudo apt install zsh`, or using another package manager), and finally [run the setup script](https://github.com/robbyrussell/oh-my-zsh) (`sh -c "$(wget https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"`).
