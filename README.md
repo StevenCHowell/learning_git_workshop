@@ -5,7 +5,9 @@
 Before the workshop, please do the following:
 
 1. go through [Code School's Try Git course](https://www.codeschool.com/courses/try-git) 
-2. read [Tower's Version Control Best Practices](https://www.git-tower.com/learn/content/02-cheat-sheets/01-git/git-cheat-sheet-large02.png) (also at the bottom of this page) 
+2. install Git to your personal machine 
+3. setup your machine with your email and Git name
+4. 2. read [Tower's Version Control Best Practices](https://www.git-tower.com/learn/content/02-cheat-sheets/01-git/git-cheat-sheet-large02.png) (also at the bottom of this page) 
 3. review the [information about installing and setting up Git, the value of working in branches, and how to setup Oh My Zsh](https://github.com/CCP-SAS/learning_git_workshop/tree/master/getting_started).
 
 ![alt text](https://www.git-tower.com/learn/content/02-cheat-sheets/01-git/git-cheat-sheet-large02.png "Version Control Best Practices")
