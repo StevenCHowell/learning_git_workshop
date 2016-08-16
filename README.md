@@ -17,4 +17,11 @@
 - [Aliases](https://git.wiki.kernel.org/index.php/Aliases)
 - [Git Ready](http://gitready.com/): daily tip for everyone from noob to guru
 
+## Discussions about Git (and some of the Gotcha features):
+- [10 things I hate about Git](https://stevebennett.me/2012/02/24/10-things-i-hate-about-git/)
+- [GitFlow considered harmful](http://endoflineblog.com/gitflow-considered-harmful)
+- [Follow-up to 'GitFlow considered harmful'](http://endoflineblog.com/follow-up-to-gitflow-considered-harmful)
+- [The Case for Git Rebase](http://www.darwinweb.net/articles/the-case-for-git-rebase)
+- [Rebase Considered Harmful](http://changelog.complete.org/archives/586-rebase-considered-harmful)
+
 ![alt text](https://www.git-tower.com/learn/content/02-cheat-sheets/01-git/git-cheat-sheet-large02.png "Version Control Best Practices")
