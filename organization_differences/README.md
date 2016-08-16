@@ -20,5 +20,5 @@ Another setting available within an organization is **Blocked Users**.  Any user
 - star, fork, or watch
 - add or edit wiki pages
  
-### Notifications
-By default, those who are contributors to a repository get notifications.  Others can also get notifications by selecting to watch the repo. This works wether or not they are part of the organization.  While still getting notifications, only members of the team assigned to a repo can accept pull requests.
+### Comments on Notifications and Privileges
+By default, those who are contributors to a repository get notifications.  Others can also get notifications by selecting to watch the repo. This works wether or not they are part of the organization.  While still getting notifications, only members of the team assigned to a repo can accept pull requests.  In this situation, contributors have to work from their own fork, then request their contributions be integrated using pull requests.
