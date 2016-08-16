@@ -19,3 +19,6 @@ Another setting available within an organization is **Blocked Users**.  Any user
 - open or comment on issues or pull requests
 - star, fork, or watch
 - add or edit wiki pages
+ 
+### Notifications
+By default, those who are contributors to a repository get notifications.  Others can also get notifications by selecting to watch the repo.
