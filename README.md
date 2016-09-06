@@ -23,5 +23,6 @@
 - [Follow-up to 'GitFlow considered harmful'](http://endoflineblog.com/follow-up-to-gitflow-considered-harmful)
 - [The Case for Git Rebase](http://www.darwinweb.net/articles/the-case-for-git-rebase)
 - [Rebase Considered Harmful](http://changelog.complete.org/archives/586-rebase-considered-harmful)
-
+- [Git Undo](http://megakemp.com/2016/08/25/git-undo/)
+- 
 ![alt text](https://www.git-tower.com/learn/content/02-cheat-sheets/01-git/git-cheat-sheet-large02.png "Version Control Best Practices")
